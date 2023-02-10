@@ -1,6 +1,8 @@
 # Red-King
  
-Red King is a platform game which utilizes Object-oriented programming. Red King can run and jump . He has to carefully jump over each holes. 
+Red King is a platform game which utilizes Object-oriented programming and Lua programming langauge. 
+
+Red King can run and jump. He has to carefully jump over each holes. 
 If he falls down a hole or misses a jump, he loses. To win, he has to successfully jump over each hole and the get to winning Flag.
 Program uses Lua programming language. 
 
